@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langchain-ollama>=1.0.1
+langchain-community>=0.4.1
+tavily-python
+beautifulsoup4
+requests
+pydantic>=2.12.5
